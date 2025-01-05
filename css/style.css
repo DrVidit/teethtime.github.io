@@ -426,6 +426,13 @@ section{
 
 }
 
+@media (min-width: 768px) {
+   .content img {
+      margin-left: 50px; /* Adds custom margin to push the image further right */
+   }
+}
+
+
 @media (max-width:450px){
 
    html{
